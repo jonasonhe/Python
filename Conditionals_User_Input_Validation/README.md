@@ -1,20 +1,8 @@
-Contains a python script file called "Loan_Date_Pocket_Color_Roulette_Game_Menu"
-
-When the script is run in python, it will run a menu with 6 options which will execute various functions with the python script.
-
-Functions: 
-1. loan_qualifier
-
-2. magic_date
-
-3. is_even
-
-4. get_pocket_color 
-
-5. play_roulette (Casino Roulette Game)
-
-6. test_functions
-
+A description of the project and its purpose
+A list of any dependencies or prerequisites that are required to run the project
+Instructions for installing and setting up the project
+A guide for using the project, including any features or functionality it provides
+Links to any relevant documentation or additional resources
 
 
 
