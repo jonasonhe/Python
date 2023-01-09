@@ -4,10 +4,15 @@ When the script is run in python, it will run a menu with 6 options which will e
 
 Functions: 
 1. loan_qualifier
+
 2. magic_date
+
 3. is_even
+
 4. get_pocket_color 
-5. play_roulette
+
+5. play_roulette (Casino Roulette Game)
+
 6. test_functions
 
 Press 0 to exit out of the menu
