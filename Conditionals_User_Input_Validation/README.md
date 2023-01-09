@@ -15,6 +15,6 @@ Functions:
 
 6. test_functions
 
-Press 0 to exit out of the menu
+
 
 
